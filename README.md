@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 -   GitHub [link](https://github.com/Charith47/qr-code-component)
--   [Live Site](qr-code-component-7coykua6w-charith47.vercel.app) (powered by Vercel)
+-   [Live Site](https://qr-code-component-7coykua6w-charith47.vercel.app/) (powered by Vercel)
 
 ## My process
  - Create vanilla project wit Vite
